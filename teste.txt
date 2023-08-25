@@ -1,0 +1,6 @@
+Resultado de 0 dividido por 10 é 0.0
+tente novamente
+Não pode dividir um número por 0!
+Resultado de 5 menos 3 é 2
+Resultado de 8 mais 4 é 12
+Resultado de 10 vezes 10 é 100
